@@ -1,7 +1,7 @@
 Velero
 ======
 
-This code was generated as practice from the tutorial <a href="hhttp://mobile.tutsplus.com/tutorials/iphone/navigation-controllers-and-view-controller-hierarchies/" target="_blank">"Navigation Controllers and View Controller Hierarchies" by mobile tuts+</a>.
+This code was generated as practice from the tutorial <a href="http://mobile.tutsplus.com/tutorials/iphone/navigation-controllers-and-view-controller-hierarchies/" target="_blank">"Navigation Controllers and View Controller Hierarchies" by Mobiletuts+</a>.
 
 Some topics here were:
 - Property list (*.plist)
